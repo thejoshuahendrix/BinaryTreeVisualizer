@@ -1,7 +1,7 @@
 canvas = document.querySelector("canvas");
 canvas.width = innerWidth;
 canvas.height = innerHeight;
-centerx = canvas.width / 2;
+centerx = (canvas.width / 2) - 100;
 centery = canvas.height / 2;
 ctx = canvas.getContext("2d");
 

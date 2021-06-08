@@ -5,4 +5,4 @@ This program was designed to help understand what is happening visually when we 
 
 It also shows the basic concept of a binary search.
 
-[Binary Tree](https://github.com/thejoshuahendrix/BinaryTreeVisualizer/blob/main/binarytree.PNG?raw=true)
+![Binary Tree](https://github.com/thejoshuahendrix/BinaryTreeVisualizer/blob/main/binarytree.PNG?raw=true)
